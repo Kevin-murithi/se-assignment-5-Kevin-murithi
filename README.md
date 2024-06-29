@@ -14,7 +14,8 @@ Answer the following questions based on your understanding of the installation a
          Go to the Visual Studio Code website.
          Click on the "Download for Windows" button.
          ![alt text](<Screenshot 2024-06-28 181523.png>)
-         
+         ![alt text](<Screenshot 2024-06-28 003752.png>)
+         ![alt text](<Screenshot 2024-06-28 003752-1.png>)
          Run the Installer:
 
          Locate the downloaded file (typically VSCodeUserSetup-x64-<version>.exe) and double-click to run it.
@@ -202,4 +203,6 @@ Answer the following questions based on your understanding of the installation a
 - Provide screenshots or step-by-step instructions where applicable.
 - Cite any references or sources you use in your answers.
 - Submit your completed assignment by 1st July 
+
+![alt text](<Screenshot 2024-06-12 234443.png>)
 
