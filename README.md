@@ -13,7 +13,7 @@ Answer the following questions based on your understanding of the installation a
          Download the Installer:
          Go to the Visual Studio Code website.
          Click on the "Download for Windows" button.
-         ![alt text](<Screenshot 2024-06-28 181523.png>)
+         [alt text](<Screenshot 2024-06-28 181523.png>)
          ![alt text](<Screenshot 2024-06-28 003752.png>)
          ![alt text](<Screenshot 2024-06-28 003752-1.png>)
          Run the Installer:
